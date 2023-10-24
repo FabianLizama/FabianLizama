@@ -19,10 +19,6 @@
   <a &nbsp href="https://github.com/fabianlizama/maiTicketsProject">
     <img align="center" src="https://github-readme-stats-eight-phi-42.vercel.app/api/pin/?username=fabianlizama&repo=maiTicketsProject&theme=monokai" />
   </a>
-  &nbsp
-  <a &nbsp href="https://github.com/fabianlizama/scheme-image-editor">
-    <img align="center" src="https://github-readme-stats-eight-phi-42.vercel.app/api/pin/?username=fabianlizama&repo=scheme-image-editor&theme=monokai" />
-  </a>
 </p>
 <p align="center">
   <a &nbsp href="https://github.com/fabianlizama/hash-file-tool">
