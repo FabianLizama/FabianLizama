@@ -8,23 +8,8 @@
   </a>
 </p>
 
-- 🔭 Actualmente estoy trabajando en **Rush Hour Puzzle Solver** (Repositorio privado)
-
-- 🌱 Estoy aprendiendo **C++**
-
-- 📫 Cómo contactarme: <a>**fabian.lizama@usach.cl**</a>
-
 <br>
-<p align=center>
-  <a &nbsp href="https://github.com/fabianlizama/maiTicketsProject">
-    <img align="center" src="https://github-readme-stats-eight-phi-42.vercel.app/api/pin/?username=fabianlizama&repo=maiTicketsProject&theme=monokai" />
-  </a>
-</p>
-<p align="center">
-  <a &nbsp href="https://github.com/fabianlizama/hash-file-tool">
-    <img align="center" src="https://github-readme-stats-eight-phi-42.vercel.app/api/pin/?username=fabianlizama&repo=hash-file-tool&theme=monokai" />
-  </a>
-</p>
+
 <p align="center">
   <img src="https://github-readme-stats-eight-phi-42.vercel.app/api?username=fabianlizama&show_icons=true&theme=monokai&locale=es&include_all_commits=true" alt="fabianlizama" />
 </p>
