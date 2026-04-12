@@ -4,8 +4,10 @@ Además ayudante de las asignaturas de Paradigmas de Programación, DevSecOps y 
 
 
 
-![Stats](./profile/stats.svg)
-![Top Languages](./profile/top-langs.svg)
+<p align="center">
+  <img src="./profile/stats.svg" alt="Fabián's GitHub Stats" height="195" />
+  <img src="./profile/top-langs.svg" alt="Top Languages" height="195" />
+</p>
   
 <p align="center">
   <a href="https://linkedin.com/in/fabianlizama" target="blank">
