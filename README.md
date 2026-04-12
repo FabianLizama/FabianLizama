@@ -6,7 +6,6 @@ Además ayudante de las asignaturas de Paradigmas de Programación, DevSecOps y 
 
 ![Stats](./profile/stats.svg)
 ![Top Languages](./profile/top-langs.svg)
-![Pinned](./profile/pin-readme-tools-github-readme-stats.svg)
   
 <p align="center">
   <a href="https://linkedin.com/in/fabianlizama" target="blank">
